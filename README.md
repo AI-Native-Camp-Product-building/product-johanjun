@@ -1,6 +1,6 @@
 # 마음잇기 AI
 
-**Demo:** https://my-landing-page-mu-ten.vercel.app
+**Landing Page:** https://my-landing-page-mu-ten.vercel.app
 
 ## 1. 누구의 어떤 문제를 푸는가
 
